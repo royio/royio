@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @royio
 - 👀 I’m interested in ... Music & Technology
-- 🌱 I’m currently learning ... Full stack development
+- 🌱 I’m currently learning ... Full stack web development
 - 💞️ I’m looking to collaborate on ... Learning Node.js
 - 📫 How to reach me ... inquire.roycecosta@gmail.com
 
